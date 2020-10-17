@@ -6,6 +6,7 @@ RUN apt-get update \
   bind9-host \
   curl \
   dnsutils \
+  fping \
   iproute2 \
   iputils-ping \
   jq \
